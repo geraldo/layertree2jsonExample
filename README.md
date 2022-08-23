@@ -1,4 +1,4 @@
-# Bellamar
+# qgs-layer-parser-plugin-site
 
 Layerswitcher test web site for qgs-layer-parser-plugin, see https://github.com/geraldo/qgs-layer-parser-plugin
 

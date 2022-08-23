@@ -15,17 +15,10 @@ import {get as getProjection, transform, fromLonLat, toLonLat} from 'ol/proj';
 import {register} from 'ol/proj/proj4';
 
 import LayerSwitcher from 'ol-layerswitcher';
-import layersData from "/public/poum.qgs.json";
+import layersData from "/js/data/poum.qgs.json";
 
 import proj4 from 'proj4';
 import $ from 'jquery';
-
-const qgisserverUrl = 'https://mapa.psig.es/qgisserver/cgi-bin/qgis_mapserv.fcgi',
-      mapproxyUrl = 'https://mapa.psig.es/mapproxy/service',
-      wfsUrl = 'https://mapa.psig.es/qgisserver/wfs3/collections/',
-      wfsItems = '/items.geojson',
-      wfsMapPath = '?MAP=/home/ubuntu/bellamar/Obra_Bellamar_web.qgs',
-      wfsLimit = '&limit=10000';
 
 // https://epsg.io/25831
 proj4.defs("EPSG:25831","+proj=utm +zone=31 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs");
