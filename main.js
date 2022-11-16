@@ -15,8 +15,6 @@ import {get as getProjection, transform, fromLonLat, toLonLat} from 'ol/proj';
 import {register} from 'ol/proj/proj4';
 
 import LayerSwitcher from 'ol-layerswitcher';
-import layersData from "/js/data/poum.qgs.json";
-
 import proj4 from 'proj4';
 import $ from 'jquery';
 
@@ -111,10 +109,10 @@ const map = new Map({
     ]
   }),
   view: new View({
-    center: [199042, 5077018],
-    zoom: 14,
-    minZoom: 13,
-    maxZoom: 18
+    center: fromLonLat([2.15, 41.4]),
+    zoom: 12,
+    minZoom: 11,
+    maxZoom: 15
   })
 });
 
@@ -125,7 +123,7 @@ const layerSwitcher = new LayerSwitcher({
 });
 map.addControl(layerSwitcher);
 
-function loadJSONLayers() {
+function loadJSONLayers(layersData) {
   let layers = [];
 
   layersData.forEach(function(layer, i) {
@@ -149,9 +147,9 @@ function loadJSONLayers() {
             'LAYERS': name,
             'TRANSPARENT': true,
             'VERSION': '1.3.0',
+            'MAP': '/home/ubuntu/layertree2jsonExample/layertree2jsonExample.qgs'
       },
-      serverType: 'qgis',                 
-      //gutter:   256
+      serverType: 'qgis'
     });
 
     let newLayer = 
@@ -176,8 +174,15 @@ function loadJSONLayers() {
   return layers;
 }
 
-let layersJSON = loadJSONLayers();
-layersJSON.forEach(function(layer, i) {
-  map.addLayer(layer);
+// load layers configuration file
+$.getJSON( "js/data/layertree2jsonExample.qgs.json", function() {})
+.done(function(data) {
+  let layersJSON = loadJSONLayers(data);
+  layersJSON.forEach(function(layer, i) {
+    map.addLayer(layer);
+  });
+  layerSwitcher.renderPanel();
+})
+.fail(function() {
+  console.log( "error loading JSON file" );
 });
-layerSwitcher.renderPanel();

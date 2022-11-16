@@ -1,0 +1,401 @@
+Any,Indicador,Equipament,Valor,Notes_Dades,Notes_Equipament,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Titularitat,TipusGeneral,TipusEquipament,Ambit,Latitud,Longitud
+2021,Assistents_Activitats,"Biblioteca Barceloneta - La Fraternitat",378,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Assistents_Activitats,"Biblioteca Francesca Bonnemaison",996,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Assistents_Activitats,"Biblioteca Gòtic - Andreu Nin",666,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Assistents_Activitats,"Biblioteca Sant Pau - Santa Creu",303,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Assistents_Activitats,"Bibl. Esquerra de l'Eixample - Agustí Centelles",1156,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Assistents_Activitats,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",1313,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Assistents_Activitats,"Biblioteca Fort Pienc",635,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Assistents_Activitats,"Biblioteca Joan Miró",445,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Assistents_Activitats,"Biblioteca Sant Antoni - Joan Oliver",590,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Assistents_Activitats,"Biblioteca Sofia Barat",631,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Assistents_Activitats,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",733,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Assistents_Activitats,"Biblioteca Jaume Fuster",1815,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Assistents_Activitats,"Biblioteca Vila de Gràcia",832,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Assistents_Activitats,"Biblioteca El Carmel - Juan Marsé",1187,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Assistents_Activitats,"Biblioteca Guinardó - Mercè Rodoreda",918,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Assistents_Activitats,"Biblioteca Horta - Can Mariner",1102,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Assistents_Activitats,"Biblioteca Montbau - Albert Pérez Baró",430,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Assistents_Activitats,"Biblioteca Les Corts - Miquel Llongueras",448,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Assistents_Activitats,"Biblioteca Montserrat Abelló",1462,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Assistents_Activitats,"Biblioteca Canyelles",326,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Assistents_Activitats,"Biblioteca Les Roquetes - Rafa Juncadella",1098,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Assistents_Activitats,"Biblioteca Nou Barris",1264,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Assistents_Activitats,"Biblioteca Vilapicina i la Torre Llobeta",1428,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Assistents_Activitats,"Biblioteca Zona Nord",1160,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Assistents_Activitats,"Biblioteca Bon Pastor",4214,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Assistents_Activitats,"Biblioteca Ignasi Iglésias - Can Fabra",4549,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Assistents_Activitats,"Biblioteca La Sagrera - Marina Clotet",957,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Assistents_Activitats,"Biblioteca Trinitat Vella - José Barbero",926,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Assistents_Activitats,"Biblioteca Camp de l'Arpa - Caterina Albert",1035,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Assistents_Activitats,"Biblioteca El Clot - Josep Benet",752,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Assistents_Activitats,"Biblioteca Poblenou - Manuel Arranz",921,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Assistents_Activitats,"Biblioteca Ramon d'Alòs-Moner",391,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Assistents_Activitats,"Biblioteca Sant Martí de Provençals",223,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Assistents_Activitats,"Biblioteca Xavier Benguerel",971,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Assistents_Activitats,"Biblioteca Francesc Candel",985,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Assistents_Activitats,"Biblioteca Poble Sec - Francesc Boix",787,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Assistents_Activitats,"Biblioteca Vapor Vell",1615,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Assistents_Activitats,"Biblioteca Clarà",402,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Assistents_Activitats,"Biblioteca Collserola - Josep Miracle",548,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Assistents_Activitats,"Biblioteca Sant Gervasi - Joan Maragall",921,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Assistents_Visites_Escolars,"Biblioteca Barceloneta - La Fraternitat",1107,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Assistents_Visites_Escolars,"Biblioteca Francesca Bonnemaison",2325,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Assistents_Visites_Escolars,"Biblioteca Gòtic - Andreu Nin",1396,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Assistents_Visites_Escolars,"Biblioteca Sant Pau - Santa Creu",2053,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Assistents_Visites_Escolars,"Bibl. Esquerra de l'Eixample - Agustí Centelles",844,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Assistents_Visites_Escolars,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",1835,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Assistents_Visites_Escolars,"Biblioteca Fort Pienc",1780,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Assistents_Visites_Escolars,"Biblioteca Joan Miró",952,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Assistents_Visites_Escolars,"Biblioteca Sant Antoni - Joan Oliver",239,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Assistents_Visites_Escolars,"Biblioteca Sofia Barat",976,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Assistents_Visites_Escolars,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",671,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Assistents_Visites_Escolars,"Biblioteca Jaume Fuster",1942,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Assistents_Visites_Escolars,"Biblioteca Vila de Gràcia",560,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Assistents_Visites_Escolars,"Biblioteca El Carmel - Juan Marsé",930,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Assistents_Visites_Escolars,"Biblioteca Guinardó - Mercè Rodoreda",473,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Assistents_Visites_Escolars,"Biblioteca Horta - Can Mariner",456,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Assistents_Visites_Escolars,"Biblioteca Montbau - Albert Pérez Baró",276,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Assistents_Visites_Escolars,"Biblioteca Les Corts - Miquel Llongueras",475,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Assistents_Visites_Escolars,"Biblioteca Montserrat Abelló",1773,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Assistents_Visites_Escolars,"Biblioteca Canyelles",145,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Assistents_Visites_Escolars,"Biblioteca Les Roquetes - Rafa Juncadella",677,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Assistents_Visites_Escolars,"Biblioteca Nou Barris",1421,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Assistents_Visites_Escolars,"Biblioteca Vilapicina i la Torre Llobeta",1127,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Assistents_Visites_Escolars,"Biblioteca Zona Nord",1439,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Assistents_Visites_Escolars,"Biblioteca Bon Pastor",3088,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Assistents_Visites_Escolars,"Biblioteca Ignasi Iglésias - Can Fabra",3040,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Assistents_Visites_Escolars,"Biblioteca La Sagrera - Marina Clotet",1326,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Assistents_Visites_Escolars,"Biblioteca Trinitat Vella - José Barbero",379,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Assistents_Visites_Escolars,"Biblioteca Camp de l'Arpa - Caterina Albert",1075,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Assistents_Visites_Escolars,"Biblioteca El Clot - Josep Benet",840,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Assistents_Visites_Escolars,"Biblioteca Poblenou - Manuel Arranz",977,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Assistents_Visites_Escolars,"Biblioteca Ramon d'Alòs-Moner",285,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Assistents_Visites_Escolars,"Biblioteca Sant Martí de Provençals",609,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Assistents_Visites_Escolars,"Biblioteca Xavier Benguerel",968,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Assistents_Visites_Escolars,"Biblioteca Francesc Candel",1006,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Assistents_Visites_Escolars,"Biblioteca Poble Sec - Francesc Boix",425,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Assistents_Visites_Escolars,"Biblioteca Vapor Vell",1170,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Assistents_Visites_Escolars,"Biblioteca Clarà",233,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Assistents_Visites_Escolars,"Biblioteca Collserola - Josep Miracle",395,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Assistents_Visites_Escolars,"Biblioteca Sant Gervasi - Joan Maragall",418,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Fons_Documentals,"Biblioteca Barceloneta - La Fraternitat",43873,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Fons_Documentals,"Biblioteca Francesca Bonnemaison",72383,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Fons_Documentals,"Biblioteca Gòtic - Andreu Nin",45334,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Fons_Documentals,"Biblioteca Sant Pau - Santa Creu",62108,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Fons_Documentals,"Bibl. Esquerra de l'Eixample - Agustí Centelles",86445,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Fons_Documentals,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",86927,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Fons_Documentals,"Biblioteca Fort Pienc",56049,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Fons_Documentals,"Biblioteca Joan Miró",58509,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Fons_Documentals,"Biblioteca Sant Antoni - Joan Oliver",39540,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Fons_Documentals,"Biblioteca Sofia Barat",31630,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Fons_Documentals,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",36298,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Fons_Documentals,"Biblioteca Jaume Fuster",113890,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Fons_Documentals,"Biblioteca Vila de Gràcia",46044,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Fons_Documentals,"Biblioteca El Carmel - Juan Marsé",93368,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Fons_Documentals,"Biblioteca Guinardó - Mercè Rodoreda",88015,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Fons_Documentals,"Biblioteca Horta - Can Mariner",53180,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Fons_Documentals,"Biblioteca Montbau - Albert Pérez Baró",36758,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Fons_Documentals,"Biblioteca Les Corts - Miquel Llongueras",60923,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Fons_Documentals,"Biblioteca Montserrat Abelló",53017,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Fons_Documentals,"Biblioteca Canyelles",29670,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Fons_Documentals,"Biblioteca Les Roquetes - Rafa Juncadella",36563,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Fons_Documentals,"Biblioteca Nou Barris",74142,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Fons_Documentals,"Biblioteca Vilapicina i la Torre Llobeta",46426,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Fons_Documentals,"Biblioteca Zona Nord",42503,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Fons_Documentals,"Biblioteca Bon Pastor",43652,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Fons_Documentals,"Biblioteca Ignasi Iglésias - Can Fabra",132681,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Fons_Documentals,"Biblioteca La Sagrera - Marina Clotet",49211,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Fons_Documentals,"Biblioteca Trinitat Vella - José Barbero",26852,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Fons_Documentals,"Biblioteca Camp de l'Arpa - Caterina Albert",58015,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Fons_Documentals,"Biblioteca El Clot - Josep Benet",50746,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Fons_Documentals,"Biblioteca Poblenou - Manuel Arranz",58204,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Fons_Documentals,"Biblioteca Ramon d'Alòs-Moner",32741,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Fons_Documentals,"Biblioteca Sant Martí de Provençals",26587,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Fons_Documentals,"Biblioteca Xavier Benguerel",126538,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Fons_Documentals,"Biblioteca Francesc Candel",61467,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Fons_Documentals,"Biblioteca Poble Sec - Francesc Boix",38724,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Fons_Documentals,"Biblioteca Vapor Vell",118299,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Fons_Documentals,"Biblioteca Clarà",52132,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Fons_Documentals,"Biblioteca Collserola - Josep Miracle",26889,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Fons_Documentals,"Biblioteca Sant Gervasi - Joan Maragall",65219,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Metres_Quadrats,"Biblioteca Barceloneta - La Fraternitat",836,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Metres_Quadrats,"Biblioteca Francesca Bonnemaison",1663,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Metres_Quadrats,"Biblioteca Gòtic - Andreu Nin",994,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Metres_Quadrats,"Biblioteca Sant Pau - Santa Creu",1040,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Metres_Quadrats,"Bibl. Esquerra de l'Eixample - Agustí Centelles",3097,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Metres_Quadrats,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",2641,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Metres_Quadrats,"Biblioteca Fort Pienc",1091,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Metres_Quadrats,"Biblioteca Joan Miró",1072,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Metres_Quadrats,"Biblioteca Sant Antoni - Joan Oliver",1480,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Metres_Quadrats,"Biblioteca Sofia Barat",535,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Metres_Quadrats,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",1225,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Metres_Quadrats,"Biblioteca Jaume Fuster",5636,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Metres_Quadrats,"Biblioteca Vila de Gràcia",1029,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Metres_Quadrats,"Biblioteca El Carmel - Juan Marsé",2392,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Metres_Quadrats,"Biblioteca Guinardó - Mercè Rodoreda",2060,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Metres_Quadrats,"Biblioteca Horta - Can Mariner",1702,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Metres_Quadrats,"Biblioteca Montbau - Albert Pérez Baró",753,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Metres_Quadrats,"Biblioteca Les Corts - Miquel Llongueras",1442,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Metres_Quadrats,"Biblioteca Montserrat Abelló",3300,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Metres_Quadrats,"Biblioteca Canyelles",450,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Metres_Quadrats,"Biblioteca Les Roquetes - Rafa Juncadella",1194,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Metres_Quadrats,"Biblioteca Nou Barris",2010,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Metres_Quadrats,"Biblioteca Vilapicina i la Torre Llobeta",1400,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Metres_Quadrats,"Biblioteca Zona Nord",1462,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Metres_Quadrats,"Biblioteca Bon Pastor",1574,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Metres_Quadrats,"Biblioteca Ignasi Iglésias - Can Fabra",3446,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Metres_Quadrats,"Biblioteca La Sagrera - Marina Clotet",2212,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Metres_Quadrats,"Biblioteca Trinitat Vella - José Barbero",1297,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Metres_Quadrats,"Biblioteca Camp de l'Arpa - Caterina Albert",2489,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Metres_Quadrats,"Biblioteca El Clot - Josep Benet",1732,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Metres_Quadrats,"Biblioteca Poblenou - Manuel Arranz",1550,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Metres_Quadrats,"Biblioteca Ramon d'Alòs-Moner",380,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Metres_Quadrats,"Biblioteca Sant Martí de Provençals",280,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Metres_Quadrats,"Biblioteca Xavier Benguerel",1960,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Metres_Quadrats,"Biblioteca Francesc Candel",2091,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Metres_Quadrats,"Biblioteca Poble Sec - Francesc Boix",539,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Metres_Quadrats,"Biblioteca Vapor Vell",2087,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Metres_Quadrats,"Biblioteca Clarà",762,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Metres_Quadrats,"Biblioteca Collserola - Josep Miracle",468,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Metres_Quadrats,"Biblioteca Sant Gervasi - Joan Maragall",2396,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Nombre_Activitats,"Biblioteca Barceloneta - La Fraternitat",21,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Nombre_Activitats,"Biblioteca Francesca Bonnemaison",53,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Nombre_Activitats,"Biblioteca Gòtic - Andreu Nin",17,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Nombre_Activitats,"Biblioteca Sant Pau - Santa Creu",30,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Nombre_Activitats,"Bibl. Esquerra de l'Eixample - Agustí Centelles",31,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Nombre_Activitats,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",57,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Nombre_Activitats,"Biblioteca Fort Pienc",33,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Nombre_Activitats,"Biblioteca Joan Miró",26,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Nombre_Activitats,"Biblioteca Sant Antoni - Joan Oliver",29,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Nombre_Activitats,"Biblioteca Sofia Barat",46,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Nombre_Activitats,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",72,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Nombre_Activitats,"Biblioteca Jaume Fuster",74,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Nombre_Activitats,"Biblioteca Vila de Gràcia",46,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Nombre_Activitats,"Biblioteca El Carmel - Juan Marsé",64,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Nombre_Activitats,"Biblioteca Guinardó - Mercè Rodoreda",42,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Nombre_Activitats,"Biblioteca Horta - Can Mariner",48,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Nombre_Activitats,"Biblioteca Montbau - Albert Pérez Baró",33,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Nombre_Activitats,"Biblioteca Les Corts - Miquel Llongueras",40,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Nombre_Activitats,"Biblioteca Montserrat Abelló",96,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Nombre_Activitats,"Biblioteca Canyelles",26,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Nombre_Activitats,"Biblioteca Les Roquetes - Rafa Juncadella",54,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Nombre_Activitats,"Biblioteca Nou Barris",73,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Nombre_Activitats,"Biblioteca Vilapicina i la Torre Llobeta",52,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Nombre_Activitats,"Biblioteca Zona Nord",126,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Nombre_Activitats,"Biblioteca Bon Pastor",245,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Nombre_Activitats,"Biblioteca Ignasi Iglésias - Can Fabra",396,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Nombre_Activitats,"Biblioteca La Sagrera - Marina Clotet",60,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Nombre_Activitats,"Biblioteca Trinitat Vella - José Barbero",79,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Nombre_Activitats,"Biblioteca Camp de l'Arpa - Caterina Albert",49,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Nombre_Activitats,"Biblioteca El Clot - Josep Benet",39,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Nombre_Activitats,"Biblioteca Poblenou - Manuel Arranz",43,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Nombre_Activitats,"Biblioteca Ramon d'Alòs-Moner",26,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Nombre_Activitats,"Biblioteca Sant Martí de Provençals",14,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Nombre_Activitats,"Biblioteca Xavier Benguerel",38,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Nombre_Activitats,"Biblioteca Francesc Candel",55,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Nombre_Activitats,"Biblioteca Poble Sec - Francesc Boix",38,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Nombre_Activitats,"Biblioteca Vapor Vell",68,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Nombre_Activitats,"Biblioteca Clarà",27,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Nombre_Activitats,"Biblioteca Collserola - Josep Miracle",27,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Nombre_Activitats,"Biblioteca Sant Gervasi - Joan Maragall",64,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Nombre_Visites_Escolars,"Biblioteca Barceloneta - La Fraternitat",61,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Nombre_Visites_Escolars,"Biblioteca Francesca Bonnemaison",108,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Nombre_Visites_Escolars,"Biblioteca Gòtic - Andreu Nin",73,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Nombre_Visites_Escolars,"Biblioteca Sant Pau - Santa Creu",102,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Nombre_Visites_Escolars,"Bibl. Esquerra de l'Eixample - Agustí Centelles",40,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Nombre_Visites_Escolars,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",82,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Nombre_Visites_Escolars,"Biblioteca Fort Pienc",83,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Nombre_Visites_Escolars,"Biblioteca Joan Miró",50,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Nombre_Visites_Escolars,"Biblioteca Sant Antoni - Joan Oliver",10,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Nombre_Visites_Escolars,"Biblioteca Sofia Barat",60,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Nombre_Visites_Escolars,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",28,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Nombre_Visites_Escolars,"Biblioteca Jaume Fuster",97,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Nombre_Visites_Escolars,"Biblioteca Vila de Gràcia",29,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Nombre_Visites_Escolars,"Biblioteca El Carmel - Juan Marsé",46,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Nombre_Visites_Escolars,"Biblioteca Guinardó - Mercè Rodoreda",26,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Nombre_Visites_Escolars,"Biblioteca Horta - Can Mariner",25,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Nombre_Visites_Escolars,"Biblioteca Montbau - Albert Pérez Baró",16,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Nombre_Visites_Escolars,"Biblioteca Les Corts - Miquel Llongueras",21,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Nombre_Visites_Escolars,"Biblioteca Montserrat Abelló",84,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Nombre_Visites_Escolars,"Biblioteca Canyelles",8,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Nombre_Visites_Escolars,"Biblioteca Les Roquetes - Rafa Juncadella",34,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Nombre_Visites_Escolars,"Biblioteca Nou Barris",76,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Nombre_Visites_Escolars,"Biblioteca Vilapicina i la Torre Llobeta",56,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Nombre_Visites_Escolars,"Biblioteca Zona Nord",67,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Nombre_Visites_Escolars,"Biblioteca Bon Pastor",158,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Nombre_Visites_Escolars,"Biblioteca Ignasi Iglésias - Can Fabra",128,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Nombre_Visites_Escolars,"Biblioteca La Sagrera - Marina Clotet",52,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Nombre_Visites_Escolars,"Biblioteca Trinitat Vella - José Barbero",20,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Nombre_Visites_Escolars,"Biblioteca Camp de l'Arpa - Caterina Albert",41,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Nombre_Visites_Escolars,"Biblioteca El Clot - Josep Benet",38,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Nombre_Visites_Escolars,"Biblioteca Poblenou - Manuel Arranz",43,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Nombre_Visites_Escolars,"Biblioteca Ramon d'Alòs-Moner",16,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Nombre_Visites_Escolars,"Biblioteca Sant Martí de Provençals",31,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Nombre_Visites_Escolars,"Biblioteca Xavier Benguerel",40,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Nombre_Visites_Escolars,"Biblioteca Francesc Candel",65,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Nombre_Visites_Escolars,"Biblioteca Poble Sec - Francesc Boix",22,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Nombre_Visites_Escolars,"Biblioteca Vapor Vell",48,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Nombre_Visites_Escolars,"Biblioteca Clarà",13,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Nombre_Visites_Escolars,"Biblioteca Collserola - Josep Miracle",14,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Nombre_Visites_Escolars,"Biblioteca Sant Gervasi - Joan Maragall",24,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Prestecs_presencials,"Biblioteca Barceloneta - La Fraternitat",35105,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Prestecs_presencials,"Biblioteca Francesca Bonnemaison",80160,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Prestecs_presencials,"Biblioteca Gòtic - Andreu Nin",36199,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Prestecs_presencials,"Biblioteca Sant Pau - Santa Creu",55784,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Prestecs_presencials,"Bibl. Esquerra de l'Eixample - Agustí Centelles",165567,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Prestecs_presencials,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",212567,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Prestecs_presencials,"Biblioteca Fort Pienc",54730,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Prestecs_presencials,"Biblioteca Joan Miró",63634,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Prestecs_presencials,"Biblioteca Sant Antoni - Joan Oliver",64049,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Prestecs_presencials,"Biblioteca Sofia Barat",38472,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Prestecs_presencials,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",29250,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Prestecs_presencials,"Biblioteca Jaume Fuster",221990,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Prestecs_presencials,"Biblioteca Vila de Gràcia",74995,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Prestecs_presencials,"Biblioteca El Carmel - Juan Marsé",59865,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Prestecs_presencials,"Biblioteca Guinardó - Mercè Rodoreda",116803,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Prestecs_presencials,"Biblioteca Horta - Can Mariner",64816,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Prestecs_presencials,"Biblioteca Montbau - Albert Pérez Baró",25627,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Prestecs_presencials,"Biblioteca Les Corts - Miquel Llongueras",42763,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Prestecs_presencials,"Biblioteca Montserrat Abelló",132258,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Prestecs_presencials,"Biblioteca Canyelles",13979,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Prestecs_presencials,"Biblioteca Les Roquetes - Rafa Juncadella",27446,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Prestecs_presencials,"Biblioteca Nou Barris",103084,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Prestecs_presencials,"Biblioteca Vilapicina i la Torre Llobeta",75172,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Prestecs_presencials,"Biblioteca Zona Nord",21636,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Prestecs_presencials,"Biblioteca Bon Pastor",29435,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Prestecs_presencials,"Biblioteca Ignasi Iglésias - Can Fabra",227004,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Prestecs_presencials,"Biblioteca La Sagrera - Marina Clotet",45844,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Prestecs_presencials,"Biblioteca Trinitat Vella - José Barbero",16164,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Prestecs_presencials,"Biblioteca Camp de l'Arpa - Caterina Albert",88881,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Prestecs_presencials,"Biblioteca El Clot - Josep Benet",66669,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Prestecs_presencials,"Biblioteca Poblenou - Manuel Arranz",109071,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Prestecs_presencials,"Biblioteca Ramon d'Alòs-Moner",17283,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Prestecs_presencials,"Biblioteca Sant Martí de Provençals",29442,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Prestecs_presencials,"Biblioteca Xavier Benguerel",81545,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Prestecs_presencials,"Biblioteca Francesc Candel",59698,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Prestecs_presencials,"Biblioteca Poble Sec - Francesc Boix",37732,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Prestecs_presencials,"Biblioteca Vapor Vell",141846,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Prestecs_presencials,"Biblioteca Clarà",39683,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Prestecs_presencials,"Biblioteca Collserola - Josep Miracle",18705,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Prestecs_presencials,"Biblioteca Sant Gervasi - Joan Maragall",91048,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Prestecs_virtuals,"Biblioteca Barceloneta - La Fraternitat",2105,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Prestecs_virtuals,"Biblioteca Francesca Bonnemaison",11421,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Prestecs_virtuals,"Biblioteca Gòtic - Andreu Nin",1853,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Prestecs_virtuals,"Biblioteca Sant Pau - Santa Creu",19344,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Prestecs_virtuals,"Bibl. Esquerra de l'Eixample - Agustí Centelles",14038,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Prestecs_virtuals,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",16897,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Prestecs_virtuals,"Biblioteca Fort Pienc",8921,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Prestecs_virtuals,"Biblioteca Joan Miró",22049,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Prestecs_virtuals,"Biblioteca Sant Antoni - Joan Oliver",6776,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Prestecs_virtuals,"Biblioteca Sofia Barat",11525,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Prestecs_virtuals,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",1179,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Prestecs_virtuals,"Biblioteca Jaume Fuster",27057,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Prestecs_virtuals,"Biblioteca Vila de Gràcia",25372,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Prestecs_virtuals,"Biblioteca El Carmel - Juan Marsé",3805,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Prestecs_virtuals,"Biblioteca Guinardó - Mercè Rodoreda",20871,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Prestecs_virtuals,"Biblioteca Horta - Can Mariner",5900,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Prestecs_virtuals,"Biblioteca Montbau - Albert Pérez Baró",2228,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Prestecs_virtuals,"Biblioteca Les Corts - Miquel Llongueras",8105,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Prestecs_virtuals,"Biblioteca Montserrat Abelló",16924,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Prestecs_virtuals,"Biblioteca Canyelles",436,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Prestecs_virtuals,"Biblioteca Les Roquetes - Rafa Juncadella",932,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Prestecs_virtuals,"Biblioteca Nou Barris",10925,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Prestecs_virtuals,"Biblioteca Vilapicina i la Torre Llobeta",3092,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Prestecs_virtuals,"Biblioteca Zona Nord",818,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Prestecs_virtuals,"Biblioteca Bon Pastor",559,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Prestecs_virtuals,"Biblioteca Ignasi Iglésias - Can Fabra",16295,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Prestecs_virtuals,"Biblioteca La Sagrera - Marina Clotet",879,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Prestecs_virtuals,"Biblioteca Trinitat Vella - José Barbero",367,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Prestecs_virtuals,"Biblioteca Camp de l'Arpa - Caterina Albert",12319,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Prestecs_virtuals,"Biblioteca El Clot - Josep Benet",2834,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Prestecs_virtuals,"Biblioteca Poblenou - Manuel Arranz",7496,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Prestecs_virtuals,"Biblioteca Ramon d'Alòs-Moner",1689,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Prestecs_virtuals,"Biblioteca Sant Martí de Provençals",6314,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Prestecs_virtuals,"Biblioteca Xavier Benguerel",9644,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Prestecs_virtuals,"Biblioteca Francesc Candel",4406,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Prestecs_virtuals,"Biblioteca Poble Sec - Francesc Boix",6629,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Prestecs_virtuals,"Biblioteca Vapor Vell",19454,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Prestecs_virtuals,"Biblioteca Clarà",8370,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Prestecs_virtuals,"Biblioteca Collserola - Josep Miracle",876,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Prestecs_virtuals,"Biblioteca Sant Gervasi - Joan Maragall",4705,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Usos_Ordinadors,"Biblioteca Barceloneta - La Fraternitat",3134,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Usos_Ordinadors,"Biblioteca Francesca Bonnemaison",8054,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Usos_Ordinadors,"Biblioteca Gòtic - Andreu Nin",5324,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Usos_Ordinadors,"Biblioteca Sant Pau - Santa Creu",8366,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Usos_Ordinadors,"Bibl. Esquerra de l'Eixample - Agustí Centelles",15010,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Usos_Ordinadors,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",26400,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Usos_Ordinadors,"Biblioteca Fort Pienc",2555,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Usos_Ordinadors,"Biblioteca Joan Miró",2409,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Usos_Ordinadors,"Biblioteca Sant Antoni - Joan Oliver",5122,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Usos_Ordinadors,"Biblioteca Sofia Barat",1062,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Usos_Ordinadors,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",2090,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Usos_Ordinadors,"Biblioteca Jaume Fuster",19214,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Usos_Ordinadors,"Biblioteca Vila de Gràcia",4339,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Usos_Ordinadors,"Biblioteca El Carmel - Juan Marsé",3533,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Usos_Ordinadors,"Biblioteca Guinardó - Mercè Rodoreda",10871,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Usos_Ordinadors,"Biblioteca Horta - Can Mariner",3990,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Usos_Ordinadors,"Biblioteca Montbau - Albert Pérez Baró",1571,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Usos_Ordinadors,"Biblioteca Les Corts - Miquel Llongueras",2943,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Usos_Ordinadors,"Biblioteca Montserrat Abelló",15210,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Usos_Ordinadors,"Biblioteca Canyelles",247,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Usos_Ordinadors,"Biblioteca Les Roquetes - Rafa Juncadella",3819,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Usos_Ordinadors,"Biblioteca Nou Barris",10983,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Usos_Ordinadors,"Biblioteca Vilapicina i la Torre Llobeta",4590,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Usos_Ordinadors,"Biblioteca Zona Nord",2965,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Usos_Ordinadors,"Biblioteca Bon Pastor",2454,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Usos_Ordinadors,"Biblioteca Ignasi Iglésias - Can Fabra",33546,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Usos_Ordinadors,"Biblioteca La Sagrera - Marina Clotet",2700,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Usos_Ordinadors,"Biblioteca Trinitat Vella - José Barbero",3186,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Usos_Ordinadors,"Biblioteca Camp de l'Arpa - Caterina Albert",5771,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Usos_Ordinadors,"Biblioteca El Clot - Josep Benet",4816,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Usos_Ordinadors,"Biblioteca Poblenou - Manuel Arranz",6523,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Usos_Ordinadors,"Biblioteca Ramon d'Alòs-Moner",1094,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Usos_Ordinadors,"Biblioteca Sant Martí de Provençals",840,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Usos_Ordinadors,"Biblioteca Xavier Benguerel",3033,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Usos_Ordinadors,"Biblioteca Francesc Candel",4902,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Usos_Ordinadors,"Biblioteca Poble Sec - Francesc Boix",2958,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Usos_Ordinadors,"Biblioteca Vapor Vell",12110,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Usos_Ordinadors,"Biblioteca Clarà",966,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Usos_Ordinadors,"Biblioteca Collserola - Josep Miracle",259,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Usos_Ordinadors,"Biblioteca Sant Gervasi - Joan Maragall",5707,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064
+2021,Visites,"Biblioteca Barceloneta - La Fraternitat",42481,,,01,"Ciutat Vella",03,"la Barceloneta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.379201005,2.188854072
+2021,Visites,"Biblioteca Francesca Bonnemaison",122797,,,01,"Ciutat Vella",04,"Sant Pere, Santa Caterina i la Ribera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.386936575,2.175789976
+2021,Visites,"Biblioteca Gòtic - Andreu Nin",36793,,,01,"Ciutat Vella",02,"el Barri Gòtic",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378730324,2.175978504
+2021,Visites,"Biblioteca Sant Pau - Santa Creu",88982,,,01,"Ciutat Vella",01,"el Raval",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.381057326,2.169793857
+2021,Visites,"Bibl. Esquerra de l'Eixample - Agustí Centelles",231235,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.3864488,2.1527896
+2021,Visites,"Bibl. Sagrada Família - J. M. Ainaud de Lasarte",268244,,,02,Eixample,06,"la Sagrada Família",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4055771,2.176118
+2021,Visites,"Biblioteca Fort Pienc",52575,,,02,Eixample,05,"el Fort Pienc",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.395555185,2.182447586
+2021,Visites,"Biblioteca Joan Miró",112960,,,02,Eixample,09,"la Nova Esquerra de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.378816801,2.149230361
+2021,Visites,"Biblioteca Sant Antoni - Joan Oliver",93300,,,02,Eixample,10,"Sant Antoni",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377384776,2.162778079
+2021,Visites,"Biblioteca Sofia Barat",38837,,,02,Eixample,07,"la Dreta de l'Eixample",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.394674294,2.171504480
+2021,Visites,"Bibl. Vallcarca i els Penitents - M. Antonieta Cot",30150,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.420008234,2.139657303
+2021,Visites,"Biblioteca Jaume Fuster",361204,,,06,Gràcia,28,"Vallcarca i els Penitents",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.407459888,2.149757498
+2021,Visites,"Biblioteca Vila de Gràcia",164785,,,06,Gràcia,31,"la Vila de Gràcia",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401467067,2.158213802
+2021,Visites,"Biblioteca El Carmel - Juan Marsé",55792,,,07,Horta-Guinardó,37,"el Carmel",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.421104560,2.155286623
+2021,Visites,"Biblioteca Guinardó - Mercè Rodoreda",189623,,,07,Horta-Guinardó,33,"el Baix Guinardó",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.414313258,2.165318095
+2021,Visites,"Biblioteca Horta - Can Mariner",67777,,,07,Horta-Guinardó,43,Horta,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.431105502,2.160733590
+2021,Visites,"Biblioteca Montbau - Albert Pérez Baró",34455,,,07,Horta-Guinardó,40,Montbau,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.429553532,2.142195427
+2021,Visites,"Biblioteca Les Corts - Miquel Llongueras",48928,,,04,"Les Corts",20,"la Maternitat i Sant Ramon",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.377777960,2.121760828
+2021,Visites,"Biblioteca Montserrat Abelló",335269,,"Biblioteca inaugurada el 26 de gener de 2018.",04,"Les Corts",19,"les Corts",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.383722,2.1352722
+2021,Visites,"Biblioteca Canyelles",12333,,,08,"Nou Barris",49,Canyelles,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.443773486,2.164322669
+2021,Visites,"Biblioteca Les Roquetes - Rafa Juncadella",18878,,,08,"Nou Barris",50,"les Roquetes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.445371792,2.177103706
+2021,Visites,"Biblioteca Nou Barris",138302,,,08,"Nou Barris",48,"la Guineueta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.436813681,2.171212448
+2021,Visites,"Biblioteca Vilapicina i la Torre Llobeta",89737,,,08,"Nou Barris",44,"Vilapicina i la Torre Llobeta",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.426885098,2.176452383
+2021,Visites,"Biblioteca Zona Nord",28918,,,08,"Nou Barris",54,"Torre Baró",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.461237425,2.179875786
+2021,Visites,"Biblioteca Bon Pastor",36045,,,09,"Sant Andreu",59,"el Bon Pastor",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.435164144,2.204659876
+2021,Visites,"Biblioteca Ignasi Iglésias - Can Fabra",337620,,,09,"Sant Andreu",60,"Sant Andreu",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.434481450,2.190871493
+2021,Visites,"Biblioteca La Sagrera - Marina Clotet",31365,,,09,"Sant Andreu",61,"la Sagrera",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.425875519,2.193764263
+2021,Visites,"Biblioteca Trinitat Vella - José Barbero",28991,,,09,"Sant Andreu",57,"la Trinitat Vella",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.449283144,2.190748711
+2021,Visites,"Biblioteca Camp de l'Arpa - Caterina Albert",80317,,,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415766234,2.182280785
+2021,Visites,"Biblioteca El Clot - Josep Benet",78336,,,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4019532,2.188806
+2021,Visites,"Biblioteca Poblenou - Manuel Arranz",141259,,,10,"Sant Martí",68,"el Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.401373426,2.204525705
+2021,Visites,"Biblioteca Ramon d'Alòs-Moner",16727,,,10,"Sant Martí",70,"el Besòs i el Maresme",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416309274,2.211483280
+2021,Visites,"Biblioteca Sant Martí de Provençals",33634,,"Aquesta biblioteca va tancar definitivament el 18/12/2021.",10,"Sant Martí",72,"Sant Martí de Provençals",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.416623960,2.198564569
+2021,Visites,"Biblioteca Xavier Benguerel",50787,,,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.392407385,2.197710107
+2021,Visites,"Biblioteca Francesc Candel",61226,,,03,Sants-Montjuïc,13,"la Marina de Port",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.361777512,2.136276613
+2021,Visites,"Biblioteca Poble Sec - Francesc Boix",36190,,,03,Sants-Montjuïc,11,"el Poble Sec",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.373921824,2.164025015
+2021,Visites,"Biblioteca Vapor Vell",200013,,,03,Sants-Montjuïc,18,Sants,Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.376897256,2.134733614
+2021,Visites,"Biblioteca Clarà",40556,,,05,"Sarrià-Sant Gervasi",24,"les Tres Torres",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.399909399,2.129455802
+2021,Visites,"Biblioteca Collserola - Josep Miracle",4870,,,05,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.415359022,2.102528700
+2021,Visites,"Biblioteca Sant Gervasi - Joan Maragall",118164,,,05,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",Municipal,"Biblioteques de Barcelona",Biblioteques,Lletres,41.4059495,2.136064

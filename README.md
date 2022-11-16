@@ -1,12 +1,12 @@
-# qgs-layer-parser-plugin-site
+# layertree2json plugin example site
 
-Layerswitcher test web site for qgs-layer-parser-plugin, see https://github.com/geraldo/qgs-layer-parser-plugin
+Example web site for layertree2json QGIS plugin, see https://github.com/geraldo/layertree2json
 
 ## Install and run
 
 To install dependencies:
 
-	npm install
+    npm install
 
 Start a development server (available at http://localhost:3000):
 

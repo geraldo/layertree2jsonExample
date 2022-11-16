@@ -2,5 +2,5 @@ export default {
   build: {
     sourcemap: true,
   },
-  base: '/qgs-layer-parser-plugin-site/'
+  base: '/layertree2jsonExample/'
 }
